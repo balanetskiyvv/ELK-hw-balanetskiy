@@ -2,13 +2,15 @@
 
 Установите и запустите Elasticsearch, после чего поменяйте параметр cluster_name на случайный. 
 
-
+<img width="603" alt="изображение" src="https://github.com/user-attachments/assets/0d1df727-3be9-49e0-9a7c-233c7db47291" />
 
 ---
 
 ### Задание 2. Kibana
 
+Установите и запустите Kibana.
 
+<img width="717" alt="изображение" src="https://github.com/user-attachments/assets/2957d4bb-5d8c-4ad1-93ed-894d15edb589" />
 
 ---
 
